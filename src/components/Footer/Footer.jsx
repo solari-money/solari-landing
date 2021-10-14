@@ -29,7 +29,7 @@ const Footer = () => {
                             <FooterLink href="https://app.solari.money" target="_blank">App</FooterLink>
                             <FooterLink href="https://docs.solari.money" target="_blank">Docs</FooterLink>
                             <FooterLink href="#" target="_blank">Trade</FooterLink>
-                            <FooterLink href="https://docs.solari.money/token/tokenomics" target="_blank">Tokenomics</FooterLink>
+                            <FooterLink href="https://docs.solari.money/tokens/tokenomics" target="_blank">Tokenomics</FooterLink>
                             <FooterLink href="//bscscan.com/token/0x" target="_blank">Bscscan</FooterLink>
                         </FooterLinkItems>
                     </FooterLinksWrapper>
