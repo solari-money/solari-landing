@@ -1,2 +1,3 @@
-# solari-landing
-Solari Landing Page
+# Solari landing page
+
+Made with create-react-app
