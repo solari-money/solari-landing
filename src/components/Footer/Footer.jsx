@@ -40,7 +40,7 @@ const Footer = () => {
                             <FooterLink href="https://discord.gg/ZMMzreAF7S" target="_blank">Discord</FooterLink>
                             <FooterLink href="https://t.me/joinchat/9KMEWcfGjHFkYzIx" target="_blank">Telegram</FooterLink>
                             <FooterLink href="https://github.com/solari-money" target="_blank">Github</FooterLink>
-                            <FooterLink href="https://medium.com/" target="_blank">Medium</FooterLink>
+                            <FooterLink href="https://solariprotocol.medium.com/" target="_blank">Medium</FooterLink>
                         </FooterLinkItems>
                     </FooterLinksWrapper>
                 </FooterLinksContainer>
