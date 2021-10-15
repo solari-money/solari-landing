@@ -49,7 +49,7 @@ const Footer = () => {
                         <SocialLogo href="/"><LogoImg src={Logo} alt="Icosahedron"/></SocialLogo>
                         <WebsiteRights>Solari © { new Date().getFullYear() } All Rights Reserved.</WebsiteRights>
                         <SocialIcons>
-                            <SocialIconLink href="https://twitter.com/" target="_blank" aria-label="twitter">
+                            <SocialIconLink href="https://twitter.com/@Solari_Protocol" target="_blank" aria-label="twitter">
                                 <FaTwitter/>
                             </SocialIconLink>
                             <SocialIconLink href="https://discord.gg/ZMMzreAF7S" target="_blank" aria-label="discord">
